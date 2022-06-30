@@ -1,0 +1,25 @@
+IMDB Mobile testing - Project description
+
+---------------------------------------------------------------------------------------------------------------------
+Mobile apps are taking over the world, and since mobiles are in everybody’s pocket, therefore all the apps are on our phones are just within reach as well. We are using our phones a lot daily, and we expect our apps' quality to be just as high as any web app or embedded systems.
+
+No wonder why mobile testing is becoming more and more important in nowadays.
+
+Read the background materials to have a glimpse about the main differences between web, native and hybrid mobile apps.
+
+The system under test this week will be the mobile application of IMDb. Your challenge as a QA team in this project will be to test all the features listed in the tasks, and also to collect 2-3 more main features that you think we have missed, and test their functionalities as well.
+
+As a result of this week, not only show us the reports of your test cycles, but collect all your findings based on your experiences. (different operating systems, different screen sizes, etc.)
+---------------------------------------------------------------------------------------------------------------------
+
+	Tasks include
+		-Sign-in with IMDb account
+		-Logout
+		-Basic Search
+		-Advanced Search
+		-Create a Watchlist
+		-Edit the Watchlist
+		-View movie
+		-Rate movie
+
+---------------------------------------------------------------------------------------------------------------------
